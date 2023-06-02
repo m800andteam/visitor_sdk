@@ -12,11 +12,6 @@
       <version>1.6.21</version>
     </dependency>
     <dependency>
-      <groupId>com.github.m800andteam</groupId>
-      <artifactId>visitor_sdk</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib-jdk7</artifactId>
       <version>1.6.21</version>
