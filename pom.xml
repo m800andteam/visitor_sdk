@@ -4,6 +4,7 @@
   <groupId>com.m800.maaiiconnect.mobile</groupId>
   <artifactId>client</artifactId>
   <version>1.0</version>
+  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
