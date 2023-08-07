@@ -62,18 +62,14 @@
       <version>1.6.4</version>
     </dependency>
     <dependency>
-        <groupId>com.google.firebase</groupId>
-        <artifactId>firebase-bom</artifactId>
-        <version>31.2.0</version>
-        <type>pom</type>
-    </dependency>
-    <dependency>
       <groupId>com.google.firebase</groupId>
       <artifactId>firebase-messaging</artifactId>
+      <version>23.2.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.firebase</groupId>
       <artifactId>firebase-crashlytics</artifactId>
+      <version>18.4.0</version>
     </dependency>
     <dependency>
       <groupId>org.eclipse.paho</groupId>
