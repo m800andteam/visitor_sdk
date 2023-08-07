@@ -64,12 +64,17 @@
     <dependency>
       <groupId>com.google.firebase</groupId>
       <artifactId>firebase-messaging</artifactId>
-      <version>23.2.0</version>
+      <version>23.1.1</version>
     </dependency>
     <dependency>
       <groupId>com.google.firebase</groupId>
       <artifactId>firebase-crashlytics</artifactId>
-      <version>18.4.0</version>
+      <version>18.3.3</version>
+    </dependency>
+    <dependency>
+      <groupId>com.google.firebase</groupId>
+      <artifactId>firebase-analytics-ktx</artifactId>
+      <version>21.3.0</version>
     </dependency>
     <dependency>
       <groupId>org.eclipse.paho</groupId>
