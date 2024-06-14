@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.m800.maaiiconnect.mobile</groupId>
   <artifactId>client</artifactId>
-  <version>1.0.20</version>
+  <version>1.0.34</version>
   <packaging>aar</packaging>
   <dependencies>
   <dependency>
